@@ -5,5 +5,7 @@
 <body>
     <h1>Hello, World!</h1>
     <p>This is my first HTML page.</p>
+    <p>hii, what a beautiful day</p>
+    <p>what a beautiful weather</p>
 </body>
 </html>
