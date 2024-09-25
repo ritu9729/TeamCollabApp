@@ -8,6 +8,7 @@
     <p>This is my second HTML page.</p>
     <p>hii, what a beautiful day</p>
     <p>what a beautiful weather</p>
+    <p>what a pure soul</p>
 </body>
 </html>
 
