@@ -1,6 +1,4 @@
-<<<<<<< HEAD:development.txt
-tiwhat a beautiful day 
-=======
+
 <html>
 <head>
     <title>My First HTML Page</title>
@@ -13,5 +11,4 @@ tiwhat a beautiful day
     <p>what a beautiful weather</p>
 </body>
 </html>
->>>>>>> 240839bf25b6f97dd20e71123ad53fc7edecc1c9:development2.txt
 
