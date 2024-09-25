@@ -1,0 +1,17 @@
+<<<<<<< HEAD:development.txt
+tiwhat a beautiful day 
+=======
+<html>
+<head>
+    <title>My First HTML Page</title>
+</head>
+<body>
+    <h1>Hello, World!</h1>
+    <p>This is my first HTML page.</p>
+    <p>This is my second HTML page.</p>
+    <p>hii, what a beautiful day</p>
+    <p>what a beautiful weather</p>
+</body>
+</html>
+>>>>>>> 240839bf25b6f97dd20e71123ad53fc7edecc1c9:development2.txt
+
